@@ -10,3 +10,7 @@ TEMPLATE = subdirs
 
 OTHER_FILES += $$PWD/README.md \
 	$$PWD/LICENSE	
+
+SUBDIRS += \
+    t3d \
+    urus
